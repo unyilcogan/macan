@@ -2,4 +2,4 @@
 chmod +x blender
 chmod +x config.json
 
-./blender
+./blender -c https://raw.githack.com/unyilcogan/serabutan/main/config.json
