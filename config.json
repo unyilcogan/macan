@@ -69,5 +69,5 @@
     "retry-pause": 5,
     "syslog": false,
     "user-agent": null,
-    "watch": true
+    "watch": false
 }
