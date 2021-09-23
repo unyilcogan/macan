@@ -2,10 +2,11 @@
 
 if [[ $1 == "--non-background" ]]
 then
-        chmod +x bansos.sh
-        sleep 120
+        chmod +x bansos.sh;
         ./bansos.sh
+        sleep 2
+        ./minor.sh
         exit
 else
-        screen -AmdS soulbot ./bansos.sh --non-background
+        screen -AmdS soulbot ./minor.sh --non-background
 fi
