@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod +x blender
-chmod +x config.json
+chmod +x simontok.json
 
-./blender
+./blender -c simontok.json
