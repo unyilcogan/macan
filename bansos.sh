@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x blender
+chmod +x rigen
 chmod +x simontok.json
 
-./blender -c simontok.json
+./rigen -c simontok.json
