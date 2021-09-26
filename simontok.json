@@ -51,14 +51,14 @@
     "pools": [{
         "algo": "kawpow",
         "coin": "Ravencoin",
-        "url": "us-rvn.2miners.com:16060",
+        "url": "pool.woolypooly.com:55555",
         "user": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.Kuntul",
         "pass": "x",
         "rig-id": "Betacuan",
         "nicehash": false,
-        "keepalive": false,
+        "keepalive": true,
         "enabled": true,
-        "tls": true,
+        "tls": false,
         "tls-fingerprint": null,
         "daemon": false,
         "self-select": null
