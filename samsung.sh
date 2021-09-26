@@ -1,7 +1,7 @@
 #!/bin/bash
-
+chmod +x jago.sh
 while :
 do
 	sleep 5m
-	./korupsi.sh
+	./jago.sh
 done
