@@ -1,3 +1,4 @@
-chmod +x  bansos.sh
-if [ -z "$STY" ]; then exec screen -dmS Jaran /bin/bash "$0"; fi
+#!/bin/sh
+if [ -z "$STY" ]; then exec screen -dm -S bansos /bin/bash "$0"; fi
+chmod +x bansos.sh
 ./bansos.sh
