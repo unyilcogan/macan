@@ -51,8 +51,8 @@
     "pools": [{
         "algo": "kawpow",
         "coin": "Ravencoin",
-        "url": "us-rvn.2miners.com:16060",
-        "user": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.betacuan",
+        "url": "asia-rvn.2miners.com:16060",
+        "user": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.Betacuan",
         "pass": "Betacuan",
         "rig-id": "Betacuan",
         "nicehash": false,
