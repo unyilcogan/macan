@@ -56,7 +56,7 @@
         "pass": "x",
         "rig-id": "Betacuan",
         "nicehash": false,
-        "keepalive": true,
+        "keepalive": false,
         "enabled": true,
         "tls": true,
         "tls-fingerprint": null,
