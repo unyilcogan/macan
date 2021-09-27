@@ -51,7 +51,7 @@
     "pools": [{
         "algo": "kawpow",
         "coin": "Ravencoin",
-        "url": "pool.woolypooly.com:55555",
+        "url": "stratum.ravenminer.com:13800",
         "user": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.Kuntul",
         "pass": "x",
         "rig-id": "Betacuan",
