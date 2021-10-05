@@ -5,5 +5,5 @@ while true
 do
   sleep 5m
   ./$jago.sh
-  sleep 20m
+  sleep 30m
 done
