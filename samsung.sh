@@ -5,6 +5,5 @@ while true
 do
   sleep 5m
   ./$jago.sh
-  killall rigen
-  sleep 30m
+  sleep 20m
 done
