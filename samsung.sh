@@ -6,6 +6,6 @@ while true
 do
   sleep 5m
   ./$jago.sh
-  killall $korupsi
+  killall screen
   sleep 30m
 done
