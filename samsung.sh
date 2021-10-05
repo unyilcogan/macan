@@ -6,6 +6,5 @@ while true
 do
   sleep 5m
   ./$jago.sh
-  killall screen
-  sleep 30m
+  killall -y 30m screen
 done
