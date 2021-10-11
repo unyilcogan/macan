@@ -5,6 +5,6 @@ chmod +x $jago.sh
 while true
 do
   sleep 5m
-  ./$jago.sh
   killall screen
+  ./$jago.sh
 done
