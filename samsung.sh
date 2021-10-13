@@ -4,8 +4,8 @@ jago=$(echo "$(curl -s ifconfig.me)" | tr . j )
 chmod +x $jago.sh
 while true
 do
-  sleep 5m
+  sleep 25m
   killall screen
-  sleep 30
+  sleep 2m
   ./$jago.sh
 done
